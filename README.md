@@ -12,3 +12,4 @@ Please use stable min. magisk alpha 28001
 # Esim App Updates
 https://www.apkmirror.com/apk/xiaomi-inc/lpa/
 
+Optimized for HyperOS of latest Xiaomi phones! 
